@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "PepsiCo Midwest",
+    "lastMonthQty": 12000,
+    "forecastQty": 15000,
+    "ytdAvgQty": 13000
+  },
+  {
+    "id": 2,
+    "name": "PepsiCo West Coast",
+    "lastMonthQty": 10000,
+    "forecastQty": 11000,
+    "ytdAvgQty": 10500
+  },
+  {
+    "id": 3,
+    "name": "PepsiCo East",
+    "lastMonthQty": 9500,
+    "forecastQty": 10300,
+    "ytdAvgQty": 9800
+  }
+]
